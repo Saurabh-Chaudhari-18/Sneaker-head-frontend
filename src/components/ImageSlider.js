@@ -1,13 +1,13 @@
 import React from 'react';
 import Slider from 'react-slick';
 import '../styles/ImageSlider.css';
-import i1 from '../assets/images/domino-studio-164_6wVEHfI-unsplash.jpg';
+import i1 from '../assets/domino-studio-164_6wVEHfI-unsplash.jpg';
 
-import i3 from '../assets/images/pexels-mnzoutfits-1598505.jpg';
-import i4 from '../assets/images/pexels-pixabay-267202.jpg';
-import i5 from '../assets/images/pexels-rdne-5698853.jpg';
-import i6 from '../assets/images/patrick-hodskins-B6LFgATILWI-unsplash.jpg';
-import i7 from '../assets/images/maksim-larin-NOpsC3nWTzY-unsplash.jpg';
+import i3 from '../assets/pexels-mnzoutfits-1598505.jpg';
+
+
+import i6 from '../assets/patrick-hodskins-B6LFgATILWI-unsplash.jpg';
+import i7 from '../assets/maksim-larin-NOpsC3nWTzY-unsplash.jpg';
 
 function ImageSlider() {
   const settings = {
@@ -32,12 +32,8 @@ function ImageSlider() {
         <div>
           <img src={i3} alt="Image 3" />
         </div>
-        <div>
-          <img src={i4} alt="Image 4" />
-        </div>
-        <div>
-          <img src={i5} alt="Image 5" />
-        </div>
+       
+       
         <div>
           <img src={i6} alt="Image 5" />
         </div>
