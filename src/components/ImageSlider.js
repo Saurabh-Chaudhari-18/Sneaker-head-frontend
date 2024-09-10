@@ -1,6 +1,6 @@
 import React from 'react';
 import Slider from 'react-slick';
-import './ImageSlider.css';
+import '../styles/ImageSlider.css';
 import i1 from '../assets/images/domino-studio-164_6wVEHfI-unsplash.jpg';
 
 import i3 from '../assets/images/pexels-mnzoutfits-1598505.jpg';
