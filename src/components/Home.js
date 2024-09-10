@@ -20,7 +20,7 @@
 
 // export default Home;
 import React from 'react';
-import './Home.css';
+import '../styles/Home.css';
 
 import ImageSlider from '../components/ImageSlider';
 
