@@ -13,7 +13,7 @@ const Home = () => {
       <CarouselCard />
       {/* <ShoeInfoSection /> */}
       {/* <ProductGallery/> */}
-      // <ImageGrid /> {/* Include the ImageGrid component */}
+      <ImageGrid />
     </>
   );
 };
